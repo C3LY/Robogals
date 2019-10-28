@@ -27,3 +27,4 @@ print("closing...")
 # 2 player mode
 #menu
 #robustness
+#capitalize letter game
